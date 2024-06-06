@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/0/6732455908c440199ee2f59c024a978f/artifacts
+end_time: 1717673369030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6732455908c440199ee2f59c024a978f
+run_name: ambitious-smelt-504
+run_uuid: 6732455908c440199ee2f59c024a978f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673369019
+status: 3
+tags: []
+user_id: marcmarais

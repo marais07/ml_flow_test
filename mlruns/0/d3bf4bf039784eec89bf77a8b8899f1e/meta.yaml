@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/0/d3bf4bf039784eec89bf77a8b8899f1e/artifacts
+end_time: 1717673525767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3bf4bf039784eec89bf77a8b8899f1e
+run_name: tasteful-rook-864
+run_uuid: d3bf4bf039784eec89bf77a8b8899f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717673525761
+status: 3
+tags: []
+user_id: marc

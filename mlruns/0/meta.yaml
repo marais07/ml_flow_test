@@ -1,6 +1,6 @@
-artifact_location: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/0
-creation_time: 1717673368929
+artifact_location: mlflow-artifacts:/0
+creation_time: 1718891346509
 experiment_id: '0'
-last_update_time: 1717673368929
+last_update_time: 1718891346509
 lifecycle_stage: active
 name: Default

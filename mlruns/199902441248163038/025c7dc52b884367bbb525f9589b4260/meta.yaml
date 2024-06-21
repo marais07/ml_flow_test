@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/025c7dc52b884367bbb525f9589b4260/artifacts
+end_time: 1718961148767
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 025c7dc52b884367bbb525f9589b4260
+run_name: likeable-foal-362
+run_uuid: 025c7dc52b884367bbb525f9589b4260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961148754
+status: 3
+tags: []
+user_id: marcmarais

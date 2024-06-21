@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/55698102bd9d4e069388263d7042596a/artifacts
+end_time: 1718892863842
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 55698102bd9d4e069388263d7042596a
+run_name: spiffy-wasp-711
+run_uuid: 55698102bd9d4e069388263d7042596a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863831
+status: 3
+tags: []
+user_id: marcmarais

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/054fc95da544419ca0c2db3987a71fb9/artifacts
+end_time: 1718961148807
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 054fc95da544419ca0c2db3987a71fb9
+run_name: loud-smelt-526
+run_uuid: 054fc95da544419ca0c2db3987a71fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961148795
+status: 3
+tags: []
+user_id: marcmarais

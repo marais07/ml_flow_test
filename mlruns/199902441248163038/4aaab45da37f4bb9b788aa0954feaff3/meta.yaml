@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/4aaab45da37f4bb9b788aa0954feaff3/artifacts
+end_time: 1718961150080
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 4aaab45da37f4bb9b788aa0954feaff3
+run_name: silent-koi-326
+run_uuid: 4aaab45da37f4bb9b788aa0954feaff3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961149993
+status: 3
+tags: []
+user_id: marcmarais

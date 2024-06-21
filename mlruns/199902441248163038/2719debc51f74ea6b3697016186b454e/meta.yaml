@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/2719debc51f74ea6b3697016186b454e/artifacts
+end_time: 1718892863676
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 2719debc51f74ea6b3697016186b454e
+run_name: useful-cat-752
+run_uuid: 2719debc51f74ea6b3697016186b454e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863668
+status: 3
+tags: []
+user_id: marcmarais

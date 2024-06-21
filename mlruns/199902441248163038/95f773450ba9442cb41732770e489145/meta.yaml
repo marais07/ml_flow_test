@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/95f773450ba9442cb41732770e489145/artifacts
+end_time: 1718892863900
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 95f773450ba9442cb41732770e489145
+run_name: powerful-snail-564
+run_uuid: 95f773450ba9442cb41732770e489145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863890
+status: 3
+tags: []
+user_id: marcmarais

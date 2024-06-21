@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/e2895ba8ac174af5899fca8087def06d/artifacts
+end_time: 1718961149679
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: e2895ba8ac174af5899fca8087def06d
+run_name: tasteful-loon-412
+run_uuid: e2895ba8ac174af5899fca8087def06d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961149617
+status: 3
+tags: []
+user_id: marcmarais

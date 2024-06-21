@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/374f03f81bd44567a0e7e5e485d54698/artifacts
+end_time: 1718961148907
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 374f03f81bd44567a0e7e5e485d54698
+run_name: valuable-bird-354
+run_uuid: 374f03f81bd44567a0e7e5e485d54698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961148893
+status: 3
+tags: []
+user_id: marcmarais

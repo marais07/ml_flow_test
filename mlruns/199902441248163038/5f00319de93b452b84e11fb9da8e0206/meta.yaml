@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/5f00319de93b452b84e11fb9da8e0206/artifacts
+end_time: 1718892863758
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 5f00319de93b452b84e11fb9da8e0206
+run_name: gaudy-penguin-350
+run_uuid: 5f00319de93b452b84e11fb9da8e0206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863750
+status: 3
+tags: []
+user_id: marcmarais

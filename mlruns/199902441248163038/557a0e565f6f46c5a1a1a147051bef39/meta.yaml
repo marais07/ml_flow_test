@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/557a0e565f6f46c5a1a1a147051bef39/artifacts
+end_time: 1718892863936
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 557a0e565f6f46c5a1a1a147051bef39
+run_name: redolent-ape-208
+run_uuid: 557a0e565f6f46c5a1a1a147051bef39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863927
+status: 3
+tags: []
+user_id: marcmarais

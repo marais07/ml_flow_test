@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/b7ce8e1aa19949b78b0cef0082bdc710/artifacts
+end_time: 1718961154224
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: b7ce8e1aa19949b78b0cef0082bdc710
+run_name: enchanting-quail-965
+run_uuid: b7ce8e1aa19949b78b0cef0082bdc710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961154085
+status: 3
+tags: []
+user_id: marcmarais

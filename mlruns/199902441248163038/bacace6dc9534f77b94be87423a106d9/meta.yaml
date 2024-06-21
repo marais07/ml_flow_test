@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/bacace6dc9534f77b94be87423a106d9/artifacts
+end_time: 1718961148948
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: bacace6dc9534f77b94be87423a106d9
+run_name: agreeable-loon-910
+run_uuid: bacace6dc9534f77b94be87423a106d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961148935
+status: 3
+tags: []
+user_id: marcmarais

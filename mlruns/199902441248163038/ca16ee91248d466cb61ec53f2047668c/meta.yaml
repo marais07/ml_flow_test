@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/ca16ee91248d466cb61ec53f2047668c/artifacts
+end_time: 1718892863797
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: ca16ee91248d466cb61ec53f2047668c
+run_name: secretive-snipe-635
+run_uuid: ca16ee91248d466cb61ec53f2047668c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863788
+status: 3
+tags: []
+user_id: marcmarais

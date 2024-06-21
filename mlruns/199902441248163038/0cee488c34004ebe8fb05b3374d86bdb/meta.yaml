@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/0cee488c34004ebe8fb05b3374d86bdb/artifacts
+end_time: 1718961148863
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 0cee488c34004ebe8fb05b3374d86bdb
+run_name: gifted-crow-452
+run_uuid: 0cee488c34004ebe8fb05b3374d86bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961148847
+status: 3
+tags: []
+user_id: marcmarais

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/1091fda47f52497e9336eb7007d40856/artifacts
+end_time: 1718956108875
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 1091fda47f52497e9336eb7007d40856
+run_name: News_classification_run1
+run_uuid: 1091fda47f52497e9336eb7007d40856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718956108864
+status: 3
+tags: []
+user_id: marcmarais

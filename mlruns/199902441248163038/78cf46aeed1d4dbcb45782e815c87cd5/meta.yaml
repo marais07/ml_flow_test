@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/78cf46aeed1d4dbcb45782e815c87cd5/artifacts
+end_time: 1718892863703
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 78cf46aeed1d4dbcb45782e815c87cd5
+run_name: magnificent-ram-746
+run_uuid: 78cf46aeed1d4dbcb45782e815c87cd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863695
+status: 3
+tags: []
+user_id: marcmarais

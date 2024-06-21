@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/3fd3437ed38b42a79861934dcf983087/artifacts
+end_time: 1718961149123
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 3fd3437ed38b42a79861934dcf983087
+run_name: adorable-cat-812
+run_uuid: 3fd3437ed38b42a79861934dcf983087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961149040
+status: 3
+tags: []
+user_id: marcmarais

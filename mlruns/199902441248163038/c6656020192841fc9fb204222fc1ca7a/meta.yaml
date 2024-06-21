@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/c6656020192841fc9fb204222fc1ca7a/artifacts
+end_time: 1718892864055
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: c6656020192841fc9fb204222fc1ca7a
+run_name: best_ComplementNB
+run_uuid: c6656020192841fc9fb204222fc1ca7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892864048
+status: 3
+tags: []
+user_id: marcmarais

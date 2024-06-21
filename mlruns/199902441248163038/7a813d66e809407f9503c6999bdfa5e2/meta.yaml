@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/7a813d66e809407f9503c6999bdfa5e2/artifacts
+end_time: 1718961149981
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 7a813d66e809407f9503c6999bdfa5e2
+run_name: classy-croc-843
+run_uuid: 7a813d66e809407f9503c6999bdfa5e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961149905
+status: 3
+tags: []
+user_id: marcmarais

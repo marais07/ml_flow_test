@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/efbfed6900424baaab90244544f4fc42/artifacts
+end_time: 1718961153958
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: efbfed6900424baaab90244544f4fc42
+run_name: upbeat-fowl-907
+run_uuid: efbfed6900424baaab90244544f4fc42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961153804
+status: 3
+tags: []
+user_id: marcmarais

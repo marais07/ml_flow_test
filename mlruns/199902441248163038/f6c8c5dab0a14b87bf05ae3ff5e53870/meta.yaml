@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/f6c8c5dab0a14b87bf05ae3ff5e53870/artifacts
+end_time: 1718961153583
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: f6c8c5dab0a14b87bf05ae3ff5e53870
+run_name: agreeable-turtle-735
+run_uuid: f6c8c5dab0a14b87bf05ae3ff5e53870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961153451
+status: 3
+tags: []
+user_id: marcmarais

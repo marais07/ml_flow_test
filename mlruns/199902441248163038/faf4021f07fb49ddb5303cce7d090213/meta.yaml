@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/faf4021f07fb49ddb5303cce7d090213/artifacts
+end_time: 1718892864029
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: faf4021f07fb49ddb5303cce7d090213
+run_name: lyrical-lynx-731
+run_uuid: faf4021f07fb49ddb5303cce7d090213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892864021
+status: 3
+tags: []
+user_id: marcmarais

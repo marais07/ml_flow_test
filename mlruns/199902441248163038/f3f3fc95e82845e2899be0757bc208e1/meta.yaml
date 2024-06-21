@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/f3f3fc95e82845e2899be0757bc208e1/artifacts
+end_time: 1718892863819
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: f3f3fc95e82845e2899be0757bc208e1
+run_name: powerful-mink-764
+run_uuid: f3f3fc95e82845e2899be0757bc208e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863810
+status: 3
+tags: []
+user_id: marcmarais

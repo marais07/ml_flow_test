@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/9c1bc5772b14428094e69410fafee651/artifacts
+end_time: 1718892864038
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 9c1bc5772b14428094e69410fafee651
+run_name: languid-swan-608
+run_uuid: 9c1bc5772b14428094e69410fafee651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892864030
+status: 3
+tags: []
+user_id: marcmarais

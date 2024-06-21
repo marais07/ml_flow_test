@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/61fe6f5cb28b4553a64b226d405a7194/artifacts
+end_time: 1718961154390
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 61fe6f5cb28b4553a64b226d405a7194
+run_name: best_RandomForestClassifier
+run_uuid: 61fe6f5cb28b4553a64b226d405a7194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961154252
+status: 3
+tags: []
+user_id: marcmarais

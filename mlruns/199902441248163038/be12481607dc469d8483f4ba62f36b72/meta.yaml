@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/be12481607dc469d8483f4ba62f36b72/artifacts
+end_time: 1718961149005
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: be12481607dc469d8483f4ba62f36b72
+run_name: languid-pug-149
+run_uuid: be12481607dc469d8483f4ba62f36b72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961148981
+status: 3
+tags: []
+user_id: marcmarais

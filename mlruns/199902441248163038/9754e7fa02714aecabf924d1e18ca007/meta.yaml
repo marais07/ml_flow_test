@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/9754e7fa02714aecabf924d1e18ca007/artifacts
+end_time: 1718892863684
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 9754e7fa02714aecabf924d1e18ca007
+run_name: redolent-turtle-561
+run_uuid: 9754e7fa02714aecabf924d1e18ca007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863677
+status: 3
+tags: []
+user_id: marcmarais

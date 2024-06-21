@@ -1,4 +1,5 @@
 import mlflow
+import mlflow.data.pandas_dataset
 import mlflow.sklearn
 from sklearn.datasets import fetch_20newsgroups
 from sklearn.model_selection import RandomizedSearchCV
@@ -40,17 +41,17 @@ pipeline = Pipeline([
 # Define the parameter grid
 parameter_grid = [
     {
-        "vect__max_df": (0.2, 0.4, 0.6, 0.8),
+        "vect__max_df": (0.2, 0.4, 0.6, 0.8, 1.0),
         "vect__min_df": (1, 3, 5, 10),
-        "vect__ngram_range": ((1, 1), (1, 2)),  # unigrams or bigrams
+        "vect__ngram_range": ((1, 1), (1, 2), (1, 3)),  # unigrams or bigrams
         "vect__norm": ("l1", "l2"),
         "model": [ComplementNB()],
         "model__alpha": np.logspace(-6, 6, 13),
     },
     {
-        "vect__max_df": (0.2, 0.4, 0.6, 0.8),
+        "vect__max_df": (0.2, 0.4, 0.6, 0.8, 1.0),
         "vect__min_df": (1, 3, 5, 10),
-        "vect__ngram_range": ((1, 1), (1, 2)),
+        "vect__ngram_range": ((1, 1), (1, 2), (1, 3)),
         "vect__norm": ("l1", "l2"),
         "model": [RandomForestClassifier(random_state=random_state)],
         "model__n_estimators": [50, 100, 200],
@@ -58,25 +59,26 @@ parameter_grid = [
         "model__min_samples_split": [2, 5, 10],
     },
     {
-        "vect__max_df": (0.2, 0.4, 0.6, 0.8),
+        "vect__max_df": (0.2, 0.4, 0.6, 0.8, 1.0),
         "vect__min_df": (1, 3, 5, 10),
-        "vect__ngram_range": ((1, 1), (1, 2)),
+        "vect__ngram_range": ((1, 1), (1, 2), (1, 3)),
         "vect__norm": ("l1", "l2"),
         "model": [SVC()],
         "model__C": [0.1, 1, 10, 100],
-        "model__kernel": ["linear", "rbf"],
+        "model__kernel": ["linear", "rbf", "poly"],
     },
 ]
 
 # Set up MLflow
 mlflow.set_experiment("Text Classification Experiment")
 
+
 # Define RandomizedSearchCV
 random_search = RandomizedSearchCV(
     estimator=pipeline,
     param_distributions=parameter_grid,
     n_iter=40,
-    random_state=0,
+    random_state=random_state,
     n_jobs=-1,
     verbose=1,
     scoring='accuracy'
@@ -84,10 +86,10 @@ random_search = RandomizedSearchCV(
 
 print("Performing randomized search...")
 print("Hyperparameters to be evaluated:")
-pprint(parameter_grid)
+print(parameter_grid)
 
 # Track the experiment with MLflow
-main_run = mlflow.start_run()
+main_run = mlflow.start_run(run_name="News_classification_run1")
 try:
     t0 = time()
     random_search.fit(data_train.data, data_train.target)
@@ -145,6 +147,9 @@ try:
     print(f"Test accuracy: {test_accuracy:.4f}")
 
     # Log the test accuracy to MLflow
+    # mlflow.log_input(data_test, context="testing")
+ 
     mlflow.log_metric("test_accuracy", test_accuracy)
+    # we can add more metrics here i.e. f1, precision, classification report
 finally:
     mlflow.end_run()

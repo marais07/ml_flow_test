@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/52dc7b7cccc640d1a72632a78ac7e9f2/artifacts
+end_time: 1718892863693
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 52dc7b7cccc640d1a72632a78ac7e9f2
+run_name: blushing-ant-771
+run_uuid: 52dc7b7cccc640d1a72632a78ac7e9f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863685
+status: 3
+tags: []
+user_id: marcmarais

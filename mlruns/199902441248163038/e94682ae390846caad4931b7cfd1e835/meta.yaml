@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/e94682ae390846caad4931b7cfd1e835/artifacts
+end_time: 1718892863917
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: e94682ae390846caad4931b7cfd1e835
+run_name: merciful-skink-342
+run_uuid: e94682ae390846caad4931b7cfd1e835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863910
+status: 3
+tags: []
+user_id: marcmarais

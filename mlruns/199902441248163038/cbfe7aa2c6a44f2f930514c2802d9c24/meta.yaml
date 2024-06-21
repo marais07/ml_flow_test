@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/cbfe7aa2c6a44f2f930514c2802d9c24/artifacts
+end_time: 1718892863863
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: cbfe7aa2c6a44f2f930514c2802d9c24
+run_name: adaptable-carp-754
+run_uuid: cbfe7aa2c6a44f2f930514c2802d9c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863853
+status: 3
+tags: []
+user_id: marcmarais

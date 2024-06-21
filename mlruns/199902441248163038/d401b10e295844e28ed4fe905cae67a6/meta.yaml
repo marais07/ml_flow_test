@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/d401b10e295844e28ed4fe905cae67a6/artifacts
+end_time: 1718892863889
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: d401b10e295844e28ed4fe905cae67a6
+run_name: masked-bear-83
+run_uuid: d401b10e295844e28ed4fe905cae67a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863881
+status: 3
+tags: []
+user_id: marcmarais

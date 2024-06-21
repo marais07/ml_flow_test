@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/7b3b39da8c49410a8bbbf31bd685d0bd/artifacts
+end_time: 1718961148702
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 7b3b39da8c49410a8bbbf31bd685d0bd
+run_name: nosy-ape-611
+run_uuid: 7b3b39da8c49410a8bbbf31bd685d0bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961148689
+status: 3
+tags: []
+user_id: marcmarais

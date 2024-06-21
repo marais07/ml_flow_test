@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/7281500454df47dcad523e04d14debbe/artifacts
+end_time: 1718961148844
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 7281500454df47dcad523e04d14debbe
+run_name: loud-shrew-281
+run_uuid: 7281500454df47dcad523e04d14debbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961148828
+status: 3
+tags: []
+user_id: marcmarais

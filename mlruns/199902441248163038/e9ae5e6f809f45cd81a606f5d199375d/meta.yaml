@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/e9ae5e6f809f45cd81a606f5d199375d/artifacts
+end_time: 1718961148826
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: e9ae5e6f809f45cd81a606f5d199375d
+run_name: gifted-gnu-755
+run_uuid: e9ae5e6f809f45cd81a606f5d199375d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961148809
+status: 3
+tags: []
+user_id: marcmarais

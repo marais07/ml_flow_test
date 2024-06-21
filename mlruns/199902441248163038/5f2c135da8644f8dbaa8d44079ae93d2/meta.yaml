@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/5f2c135da8644f8dbaa8d44079ae93d2/artifacts
+end_time: 1718892863953
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: 5f2c135da8644f8dbaa8d44079ae93d2
+run_name: intelligent-gnu-803
+run_uuid: 5f2c135da8644f8dbaa8d44079ae93d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718892863945
+status: 3
+tags: []
+user_id: marcmarais

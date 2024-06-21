@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcmarais/Documents/2401FT_DS/Classification/ml_flow_test/mlruns/199902441248163038/f414e92e3729466eb814fbf4583b7ea2/artifacts
+end_time: 1718961152564
+entry_point_name: ''
+experiment_id: '199902441248163038'
+lifecycle_stage: active
+run_id: f414e92e3729466eb814fbf4583b7ea2
+run_name: illustrious-frog-231
+run_uuid: f414e92e3729466eb814fbf4583b7ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718961150266
+status: 3
+tags: []
+user_id: marcmarais
